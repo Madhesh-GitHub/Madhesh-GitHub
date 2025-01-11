@@ -8,7 +8,8 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineering student and 
 
 - **Programming Languages:** Python | Java | C++ | C | Go | SQL | HTML | CSS | JavaScript
 - **Frameworks & Libraries:** Flask | Bootstrap | jQuery
-- **Tools:** Git & GitHub | Power BI | PostgreSQL | Jupyter Notebook | VS Code | IntelliJ IDEA
+- **Tools:** Git & GitHub | Power BI | PostgreSQL | Jupyter Notebook | VS Code | IntelliJ IDEA | Selenium
+- **Others:** Supervised Machine Learning
 
 ## GitHub Stats📈
 

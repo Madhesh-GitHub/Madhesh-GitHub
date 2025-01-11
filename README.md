@@ -1,4 +1,4 @@
-# Hi there, I'm Madhesh K 👋
+# Hi, I'm Madhesh K 👋
 
 ![Header](https://img.shields.io/badge/Hello%20World%20🌏-I'm%20Madhesh%20K-blue)
 
@@ -28,10 +28,10 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineering student and 
 2. **Diabetes Predictor**  
    *A machine learning project that predicts the likelihood of diabetes based on user input.*
    - **Tech Stack:** Logistic Regression | Python | HTML/CSS | Flask
-   - 
+      
 ---
 
-## 💻 Competitive Programming
+## Competitive Programming💻
 
 I'm active on **LeetCode**, solving algorithmic challenges and enhancing my problem-solving skills. Here's my profile:
 
@@ -39,7 +39,7 @@ I'm active on **LeetCode**, solving algorithmic challenges and enhancing my prob
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect📫
 
 - **Email:** [thisismadhesh@example.com](mailto:thisismadhesh@example.com)
 - **LinkedIn:** [Madhesh K](https://www.linkedin.com/in/its-madhesh/)

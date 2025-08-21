@@ -33,7 +33,7 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,go,js,ts,html,css, javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,go,js,ts,html,css" />
 </p>
 
 ### 🚀 Frameworks & Libraries
@@ -57,7 +57,7 @@
 
 ### 🛠️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,jupyter,selenium,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,selenium,linux" />
 </p>
 
 ### 📊 Other Skills
@@ -179,6 +179,8 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhesh-GitHub/Madhesh-GitHub/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Madhesh-GitHub/Madhesh-GitHub/output/github-contribution-grid-snake.svg">
   </picture>
+
+  
   
 </div>
 

@@ -27,46 +27,17 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Tech Stack & Skills
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Technical Skills
 
 <div align="center">
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,go,js,ts,html,css" />
-</p>
+**Programming Languages:** Java, Python, C, C++, JavaScript, TypeScript, Go(Basics), Solidity(Basics)
 
-### 🚀 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,bootstrap,jquery,tailwind" />
-</p>
+**Web Development & Frameworks:** React, Node.js, Express.js, TailwindCSS, Django, Flask, Socket.IO, JWT
 
-### 🗄️ Databases & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase" />
-</p>
+**Databases & Developer Tools:** MongoDB, PostgreSQL, Postman, GitHub, Git, Figma, Docker
 
-### 🤖 AI/ML & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neural_Networks-FF6F61?style=for-the-badge&logo=brain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### 🛠️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,selenium,linux" />
-</p>
-
-### 📊 Other Skills
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=rest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
+**Computer Science:** DBMS, OOP, Computer Networks, OS, DSA, System Design (LLD and HLD)
 
 </div>
 
@@ -81,6 +52,83 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhesh-GitHub&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF9554&currStreakLabel=6C63FF" />
+</div>
+
+---
+
+## 🎥 YouTube Channel & Learning Platform
+
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+  
+  ### 🎓 Welcome to MK CODE CLUB
+  
+  <p>
+    <a href="https://www.youtube.com/@MKCodeClub">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&scale=1.5" height="40"/>
+    </a>
+    <a href="https://mkcodeclub.vercel.app/">
+      <img src="https://img.shields.io/badge/🌐_MK_CODE_CLUB-6C63FF?style=for-the-badge&logoColor=white" height="40"/>
+    </a>
+  </p>
+  
+  <br>
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="80" />
+        <br><br>
+        <h3>📚 E-Learning Platform</h3>
+        <p><b>MK CODE CLUB</b></p>
+        <p>Interactive courses designed for<br>aspiring developers to master<br>programming skills</p>
+        <br>
+        <a href="https://mkcodeclub.vercel.app/">
+          <img src="https://img.shields.io/badge/Visit_Platform-6C63FF?style=for-the-badge" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="80" />
+        <br><br>
+        <h3>🎥 YouTube Content</h3>
+        <p><b>Free High-Quality Tutorials</b></p>
+        <p>In-depth programming courses,<br>tech tutorials, and coding<br>best practices</p>
+        <br>
+        <a href="https://www.youtube.com/@MKCodeClub">
+          <img src="https://img.shields.io/badge/Subscribe_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223156-143a1d7b-7ac8-43e9-8b3e-4080a1674fc6.gif" width="80" />
+        <br><br>
+        <h3>🚀 Featured Course</h3>
+        <p><b>Git & GitHub Mastery</b></p>
+        <p>Complete guide to version control,<br>collaboration, and modern<br>development workflows</p>
+        <br>
+        <a href="https://youtu.be/9v8kv6OFLKY?si=C7teEKRIGcjIWYK8">
+          <img src="https://img.shields.io/badge/Watch_Course-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600">
+  
+  ### 💡 Join Our Growing Community!
+  
+  <p style="font-size: 18px;">
+    🌟 <b>Subscribe to MK CODE CLUB</b> and unlock your potential with hands-on projects, <br>
+    real-world applications, and a supportive learning environment! 🚀
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC_YOUR_CHANNEL_ID?style=social" />
+    <img src="https://img.shields.io/youtube/channel/views/UC_YOUR_CHANNEL_ID?style=social" />
+  </p>
+  
 </div>
 
 ---
@@ -161,6 +209,7 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thisismadhesh@example.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-madhesh/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://madhesh-github.github.io/MyPortfolio/MyPortfolio/)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MKCodeClub)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/madheshkannan)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Madhesh-GitHub)
   
@@ -172,10 +221,6 @@
   
   ### 💭 Quote of the Day
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-
-
-  
   
 </div>
 

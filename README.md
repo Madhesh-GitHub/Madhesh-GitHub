@@ -115,21 +115,7 @@
   
   <br>
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600">
   
-  ### 💡 Join Our Growing Community!
-  
-  <p style="font-size: 18px;">
-    🌟 <b>Subscribe to MK CODE CLUB</b> and unlock your potential with hands-on projects, <br>
-    real-world applications, and a supportive learning environment! 🚀
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC_YOUR_CHANNEL_ID?style=social" />
-    <img src="https://img.shields.io/youtube/channel/views/UC_YOUR_CHANNEL_ID?style=social" />
-  </p>
-  
-</div>
 
 ---
 

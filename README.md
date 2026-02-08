@@ -117,24 +117,6 @@
   
   
 
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> Competitive Programming
-
-<div align="center">
-  
-  ### LeetCode Stats
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/madheshkannan?theme=unicorn&font=Gudea&ext=contest)
-  
-  <p>
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmadheshkannan&logo=leetcode&logoColor=yellow" />
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmadheshkannan&logo=leetcode&logoColor=yellow" />
-  </p>
-  
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
